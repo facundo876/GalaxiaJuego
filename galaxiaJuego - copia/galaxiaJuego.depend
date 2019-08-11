@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1564203003 source:c:\users\delta\desktop\galaxiajuego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"galaxia.h"
+	<conio.h>
+	"LinkedList.h"
+
+1564201343 c:\users\delta\desktop\galaxiajuego\galaxia.h
+	"LinkedList.h"
+
+1564204519 source:c:\users\delta\desktop\galaxiajuego\galaxia.c
+	"galaxia.h"
+	<windows.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1563929327 c:\users\delta\desktop\galaxiajuego\linkedlist.h
+
+1563929327 source:c:\users\delta\desktop\galaxiajuego\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+
+1564635248 source:c:\users\delta\desktop\galaxiajuego - copia\galaxia.c
+	"galaxia.h"
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	"LinkedList.h"
+	<stdbool.h>
+	<conio.h>
+
+1564634726 c:\users\delta\desktop\galaxiajuego - copia\galaxia.h
+	"LinkedList.h"
+
+1563929327 c:\users\delta\desktop\galaxiajuego - copia\linkedlist.h
+
+1563929327 source:c:\users\delta\desktop\galaxiajuego - copia\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+
+1564635363 source:c:\users\delta\desktop\galaxiajuego - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"galaxia.h"
+	<conio.h>
+	"LinkedList.h"
+
